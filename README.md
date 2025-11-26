@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif Ur Rahman</h1>
-<h3 align="center">We are a team of young professionals with high skills and expertise in the field.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<h3 align="center">A passionate Frontend Software Engineer at DataCrunch with expertise in modern web technologies</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dream-diver-co&label=Profile%20views&color=0e75b6&style=flat" alt="dream-diver-co" /> </p>
 
@@ -8,51 +9,52 @@
 
 <p align="left"> <a href="https://twitter.com/dream_diver1" target="blank"><img src="https://img.shields.io/twitter/follow/dream_diver1?logo=twitter&style=for-the-badge" alt="dream_diver1" /></a> </p>
 
-- 🔭 We are currently working on [Many Projects](https://foody-moody-restaurant.web.app/)
+- 💼 Currently working as **Full-Stack Developer at DataCrunch**
 
-- 🌱 We are currently learning **ML, AI, etc**
+- 🔭 I'm currently working on [Foody Moody Restaurant](https://foody-moody-restaurant.web.app/)
 
-- 👯 We are looking to collaborate on [Different Projects](https://dreamdiver.nl/)
+- 🌱 I'm currently learning **ML, AI, and Advanced Data Structures**
 
-- 🤝 We are looking for help with [Graphics Designer](https://dreamdiver.nl/)
+- 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of Our projects are available at [https://dreamdiver.nl/portfolio](https://dreamdiver.nl/portfolio)
+- 🤝 I'm looking for help with **Graphics Design for my projects**
 
-- 📝 We regularly write articles on [https://dreamdiver.nl/about](https://dreamdiver.nl/about)
+- 👨‍💻 All of my projects are available at [https://dreamdiver.nl/portfolio](https://dreamdiver.nl/portfolio)
 
-- 💬 Ask Us about **JavaScript, Android, Computer Science, Web Development.**
+- 📝 I regularly write articles on [https://dreamdiver.nl/blog](https://dreamdiver.nl/blog)
 
-- 📫 How to reach us **dreamdiver2017@gmail.com**
+- 💬 Ask me about **JavaScript, React, Node.js, and Web Development**
 
-- 📄 Know about Our experiences [https://dreamdiver.nl/about](https://dreamdiver.nl/about)
+- 📫 How to reach me **dreamdiver2017@gmail.com**
 
-- ⚡ Fun fact **We serve in a very convenient cost and time.**
+- 📄 Know about my experiences [https://dreamdiver.nl/about](https://dreamdiver.nl/about)
+
+- ⚡ Fun fact **I believe clean code is more about readability than just functionality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dream diver nl" height="30" width="40" /></a>
+<a href="https://codepen.io/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dreamdiver" height="30" width="40" /></a>
 <a href="https://dev.to/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dreamdiver" height="30" width="40" /></a>
 <a href="https://twitter.com/dream_diver1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dream_diver1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dream diver nl" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dream diver nl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arif-ur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arif-ur-rahman" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dreamdiver" height="30" width="40" /></a>
 <a href="https://codesandbox.com/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dreamdiver" height="30" width="40" /></a>
-<a href="https://kaggle.com/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dream diver nl" height="30" width="40" /></a>
-<a href="https://fb.com/dream diver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dream diver" height="30" width="40" /></a>
-<a href="https://instagram.com/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dream diver nl" height="30" width="40" /></a>
-<a href="https://dribbble.com/dream diver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dream diver" height="30" width="40" /></a>
-<a href="https://www.behance.net/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dream diver nl" height="30" width="40" /></a>
-<a href="https://hashnode.com/dream diver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dream diver" height="30" width="40" /></a>
+<a href="https://kaggle.com/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://fb.com/dreamdiver.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dreamdiver.official" height="30" width="40" /></a>
+<a href="https://instagram.com/dreamdiver.nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreamdiver.nl" height="30" width="40" /></a>
+<a href="https://dribbble.com/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://www.behance.net/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://hashnode.com/@dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dreamdiver" height="30" width="40" /></a>
 <a href="https://medium.com/@dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dreamdiver" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@dreamdiverit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@dreamdiverit" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dream diver nl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dream diver nl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dream diver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dream diver" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dream diver nl" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dream diver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dream diver" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dream diver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dream diver" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dream diver nl" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="dream diver nl" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xFedXPte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xFedXPte" height="30" width="40" /></a>
-<a href="/dream diver nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="dream diver nl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dreamdiverit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dreamdiverit" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dreamdiver" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dreamdiver" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/dreamdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="dreamdiver" height="30" width="40" /></a>
+<a href="https://discord.gg/xFedXPte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xFedXPte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
